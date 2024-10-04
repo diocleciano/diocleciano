@@ -1,16 +1,69 @@
-## Hi there 👋
+# Diocleciano Mousa Sousa 🌟
 
-<!--
-**diocleciano/diocleciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Contato:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diocleciano-moura-sousa-1172501a3/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@D%20I%20N%20O#9965/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:dioclecianomoura8@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diocleciano/)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@dioclecianoo?xmt=AUFiTUYtam9rWW5sNmstQlo3aTlTbzY3S19iYVIxV2pDOUI1cERLN01PMlNfb0E)
 
-Here are some ideas to get you started:
+## Sobre Mim 👨‍💻
+Sou programador desde 2019, com experiência em **frontend** e **backend**. Meu foco atual é me especializar em **backend**, desenvolvendo projetos de sites para praticar marketing e criar soluções na **nuvem da AWS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **Atualmente Aprendendo:** Aperfeiçoando JavaScript no frontend.
+- 💼 **Objetivos Futuros:** Conseguir um emprego que me ajude a crescer na área até o fim do ano.
+
+## Formação Acadêmica 🎓
+- **Técnico em Informática** - Instituto Federal Fluminense (2019-2023)
+
+## Experiência 💼
+- **Estagiário DevSecOps** - UOL (2023)
+  - Trabalhei com **computação em nuvem na AWS**.
+
+- **Projetos Pessoais:**
+  - [Bots Discord](/) - Privado (dados sensíveis).
+
+## Idiomas 🌍
+- **Inglês** - Intermediário (Curso de Inglês, 2018-2019)
+- **Português** - Nativo
+
+## Habilidades Técnicas ⚙️
+- **Linguagens de Programação:**
+  - JavaScript (frontend e backend)
+  - Outras Linguagens de Interesse: Python, C++ e TypeScript
+- **Frameworks e Bibliotecas:**
+  - Express, EJS
+- **Computação em Nuvem:**
+  - Amazon Web Services (AWS)
+- **Controle de Versão:**
+  - GitHub
+- **Data Serialization:**
+  - JSON, YAML
+- **Contêineres e Orquestração:**
+  - Docker, Kubernetes (incluindo experiência com Minikube)
+- **Sistemas Operacionais:**
+  - Linux (Oracle, Ubuntu)
+
+## Ferramentas e Tecnologias 🛠️
+- GitHub, JSON, YAML, Docker, Kubernetes
+
+## Meu GitHub 📊
+![diocleciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=diocleciano&theme=chartreuse-dark&show_icons=true)
+
+### Melhor jeito de ser um executor é anotando ✏️
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+### Backend na AWS ☁️
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend 🌐
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
+
+### Linguagens no meu GitHub 📈
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diocleciano&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
